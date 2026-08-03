@@ -1,0 +1,10 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "A Sparse Diverse-Branch Large Kernel Convolutional Neural Network for Human Activity Recognition Using Wearables"
+type: software
+authors:
+  - family-names: Yao
+    given-names: Minghui
+repository-code: "https://github.com/MinghuiYao/SLK-HAR"
+version: 0.2.0
+date-released: 2024-07-04

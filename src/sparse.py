@@ -1,4 +1,4 @@
-"""Compatibility exports for maintained dynamic sparsity utilities."""
+"""Installed compatibility exports for ``sparse``."""
 
 from slk_har.sparsity import SNIP, CosineDecay, Masking
 
