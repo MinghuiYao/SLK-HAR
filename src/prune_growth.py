@@ -1,4 +1,4 @@
-"""Compatibility exports for pruning and regrowth functions."""
+"""Installed compatibility exports for ``prune_growth``."""
 
 from slk_har.sparsity import (
     gradient_growth,

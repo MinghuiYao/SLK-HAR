@@ -1,4 +1,4 @@
-"""Compatibility exports for the original SLK block module."""
+"""Installed compatibility exports for ``SLKblock``."""
 
 from slk_har.layers import DecomposedLargeKernelConv, StochasticDepth, get_conv2d
 from slk_har.legacy import (
